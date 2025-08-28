@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 👀 I am interested in Software Engineer
 🌱 I am currently diving into Web Fullstack development, and it’s been an amazing journey so far! 😊 Can anyone recommend some of the best references, resources, or tips to help me enhance my learning? Your suggestions would be incredibly helpful. Thank you! 🚀
 📫 To get in touch with me, feel free to connect on LinkedIn or explore my portfolio at lutfiichynn.vercel.app. I’d love to collaborate and discuss exciting opportunities with you!
+
+## 📊 GitHub Stats
+![Lutfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=halolutfii&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halolutfii&layout=compact&theme=tokyonight)
