@@ -4,9 +4,10 @@
 📫 To get in touch with me, feel free to connect on [LinkedIn](https://www.linkedin.com/in/lutfiichynn/) or explore my portfolio at [Portofolio](https://lutfiichynn.vercel.app/). I’d love to collaborate and discuss exciting opportunities with you!
 
 📊 GitHub Stats
-![Lutfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=halolutfii&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halolutfii&layout=compact&theme=tokyonight)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=halolutfii&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halolutfii&layout=compact&theme=tokyonight" height="160"/>
+</div>
 
 <!--
 **halolutfii/halolutfii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
